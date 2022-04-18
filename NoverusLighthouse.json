@@ -41,6 +41,11 @@
     },
     {
      "principalId": "93d330d8-de95-418a-bd93-87487df901b8",
+     "roleDefinitionId": "00482a5a-887f-4fb3-b363-3b7fe8e74483",
+     "principalIdDisplayName": "Lighthouse Architects"
+    },
+    {
+     "principalId": "93d330d8-de95-418a-bd93-87487df901b8",
      "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
      "principalIdDisplayName": "Lighthouse Architects"
     }
